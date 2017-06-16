@@ -1,0 +1,594 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 20110214
+      Title: Geographic Names; GNIS11
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Reston, VA
+        Publisher: U.S. Geological Survey
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 2011. Geographic Names; GNIS11. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 2 October 2014).
+      Online_Linkage: http://geonames.usgs.gov/
+      Online_Linkage: http://www.rigis.org
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Rhode Island Geographic Information System (RIGIS)
+          Publication_Date: 1993
+          Title: Rhode Island Geographic Information System (RIGIS) Data Distribution System
+          Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract: The Geographic Names Information System (GNIS) is the Federal standard for geographic nomenclature. The U.S. Geological Survey developed the GNIS for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public. The GNIS is the official repository of domestic geographic names data; the official vehicle for geographic names use by all departments of the Federal Government; and the source for applying geographic names to Federal electronic and printed products of all types. See http://geonames.usgs.gov for additional information.
+    Purpose: The Geographic Names Information System contains information about physical and cultural geographic features of all types in the United States, associated areas, and Antarctica, current and historical, but not including roads and highways. The database holds the Federally recognized name of each feature and defines the feature location by state, county, USGS topographic map, and geographic coordinates. Other attributes include names or spellings other than the official name, feature designations, feature classification, historical and descriptive information, and for some categories the geometric boundaries. The database assigns a unique, permanent feature identifier, the Feature ID, as a standard Federal key for accessing, integrating, or reconciling feature data from multiple data sets. The GNIS collects data from a broad program of partnerships with Federal, State, and local government agencies and other authorized contributors. The GNIS provides data to all levels of government and to the public, as well as to numerous applications through a web query site, web map and feature services, file download services, and customized files upon request.
+    Supplemental_Information:
+      The U.S. Board on Geographic Names was created in 1890 and established in its present form by Public Law in 1947 to establish and maintain uniform geographic name usage throughout the Federal Government. The Board serves all government agencies and the public as the central authority to which name inquiries, name issues, and new name proposals can be directed. It is comprised of representatives of Federal agencies associated with land management and cartography. Sharing its responsibilities with the Secretary of the Interior, the Board develops principles, policies, and procedures governing the use of both domestic and foreign geographic names as well as undersea and Antarctic feature names.
+      Source data were originally downloaded from the U.S. Board on Geographic Names website (http://geonames.usgs.gov), imported and adapted for redistribution via RIGIS.  Information about how these data were processed are available later in this metadata record under the Data Quality Information section.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1974
+        Ending_Date: 20110214
+    Currentness_Reference: Ground Condition
+  Status:
+    Progress: In work
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate:
+      East_Bounding_Coordinate:
+      North_Bounding_Coordinate:
+      South_Bounding_Coordinate:
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: location
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Variant name
+      Theme_Keyword: Geographical name
+      Theme_Keyword: Geographic name
+      Theme_Keyword: Feature name
+      Theme_Keyword: Feature class
+      Theme_Keyword: Feature description
+      Theme_Keyword: Official feature name
+      Theme_Keyword: Feature county
+      Theme_Keyword: Feature identification
+      Theme_Keyword: Feature state
+      Theme_Keyword: Feature history
+      Theme_Keyword: Geographic feature
+      Theme_Keyword: Place name
+      Theme_Keyword: Feature designation
+      Theme_Keyword: Feature coordinates
+    Place:
+      Place_Keyword_Thesaurus: Geographic Names Information System, USGS, Reston, VA
+      Place_Keyword: United States
+      Place_Keyword: Rhode Island
+  Access_Constraints: None.
+  Use_Constraints:
+    This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+    Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Greg Bonynge
+      Contact_Position: Geospatial Extension Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Coastal Institute
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-2180
+      Contact_Electronic_Mail_Address: greg@edc.uri.edu
+  Data_Set_Credit: The Geographic Names Information System was developed by the U.S. Geological Survey in cooperation with the U.S. Board on Geographic Names.
+  Native_Data_Set_Environment: Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.0.2414
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date:
+      Title: The National Map
+      Other_Citation_Details: The National Map, is a seamless, continuously maintained set of public domain geographic base information that serves as a foundation for integrating, sharing, and using other data easily and consistently. The National Map viewer is a Web-enabled portal to all of the geospatial information contained in The National Map. This portal not only supports on-line access to the geospatial information, but also allows the download of digital data and creation of cartographic products. The GNIS supports The National Map as the source for the gazetteer search in Find Place function of The National Map viewer and as active names layers.
+  Cross_Reference:
+    Citation_Information:
+      Originator: National Geospatial Agency (NGA)
+      Publication_Date:
+      Title: GEOnet Names Server
+      Other_Citation_Details: The GEOnet Names Server (GNS) provides access to the National Geospatial Agency (NGA) database of foreign geographic feature names. The database is the official repository of foreign place-name decisions approved by the U.S. Board on Geographic Names (US BGN). Approximately 20,000 of the database's features are updated monthly.
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Census Bureau
+      Publication_Date:
+      Title: LandView
+      Other_Citation_Details: LandView is a desktop mapping system that searches and maps selected information from the Environmental Protection Agency, the Census Bureau, and the U.S. Geological Survey. LandView contains a large subset of GNIS feature, location, and attribute data for the United States. It is available on DVD. See the LandView web site for information concerning the latest edition and ordering.
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date:
+      Title: The National Atlas
+      Other_Citation_Details: The National Atlas summarizes national-scale geographical information and delivers easy to use, map-like views of America's natural and sociocultural landscapes. This digital version revises a large bound collection of paper maps that was published in 1970. The Atlas serves a diverse populace as an essential reference, a framework for information discovery, an instrument of education, an aid in research, and a reliable source of government information. It includes stimulating products and services for children and adults to understand complex relationships among environments, places, and people. It contributes to our knowledge of the environmental, resource, demographic, economic, social, political, and historical dimensions of American life. Though it cannot display detailed map information, the Atlas directs users to other sources for this information. The GNIS provides geographic feature, location, and attribute data to the National Atlas.
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date:
+      Title: The National Hydrography Dataset
+      Other_Citation_Details: The National Hydrography Dataset (NHD) is a comprehensive set of digital spatial data that contains information about surface water features such as lakes, ponds, streams, rivers, springs and wells. Within the NHD, surface water features are combined to form "reaches," which provide the framework for linking water-related data to the NHD surface water drainage network. These linkages enable the analysis and display of these water-related data in upstream and downstream order. The GNIS provides geographic feature name data to the National Hydrography Dataset.
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date:
+      Title: Geodata.gov, Geospatial One-Stop
+      Other_Citation_Details: Geodata.gov is a geographic information system (GIS) portal, also known as the Geospatial One-Stop (GOS) that serves as a public gateway for improving access to geospatial information and data under the Geospatial One-Stop E-Government initiative. Geospatial One-Stop is one of 24 E-Government initiatives sponsored by the Federal Office of Management and Budget (OMB) to enhance government efficiency and to improve citizen services. See the Geographic Names community in geodata.gov.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: During Phase I data compilation, a random sample of 10% of the entries in the system were visually verified against the compilation source data (large-scale USGS topographic maps) to ensure an accuracy rate of at least 95%. Subsequent data compilation and input processes ensure accuracy with programmed validation checks for format and content, visual examination, and spot checks of data.
+  Logical_Consistency_Report: (unknown)
+  Completeness_Report: (unknown)
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: (unknown)
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date:
+          Title: Records of the U.S. Board on Geographic Names
+      Type_of_Source_Media: None
+      Source_Citation_Abbreviation: Records of the U.S. Board on Geographic Names
+      Source_Contribution: Feature names and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Public
+          Originator: Council of Geographic Names Authorities (COGNA)
+          Originator: U.S. Forest Service
+          Originator: Other Federal, state and local agencies
+          Originator: National Park Service (NPS)
+          Originator: The State Names Authorities
+          Originator: National Ocean Service (NOS)
+          Publication_Date:
+          Title: Unknown
+          Other_Citation_Details: Since the original data compilation was completed from the original sources, GNIS accepts data or data changes for consideration from any source, and upon validation by the Board on Geographic Names or the appropriate Federal or state agency, will enter the data into the database. The GNIS has an active data gathering and maintenance program. A web-based data entry and edit application allows authorized users to submit transaction data directly for validation and entry into the database, where it immediately becomes available to all web services and applications. A test and demonstration site with no connection to production data is available for review, training, and familiarization. Batch files will be accepted in most standard formats. Government agencies at all levels are encouraged to join this program. Other organizations and individuals will be considered on a case basis. For additional information or to request user accounts for entry and edit of production data and web seminar training, contact gnis_manager@usgs.gov.
+      Type_of_Source_Media: None
+      Source_Citation_Abbreviation: Unknown
+      Source_Contribution: Feature names and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Forest Service
+          Publication_Date:
+          Title: U.S. Forest Service 1:24,000-scale topographic maps and visitor maps
+      Type_of_Source_Media: None
+      Source_Citation_Abbreviation: U.S. Forest Service 1:24,000-scale topographic maps and visitor maps
+      Source_Contribution: Feature names and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date:
+          Title: 1:24,000-scale topographic maps
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+      Type_of_Source_Media: None
+      Source_Citation_Abbreviation: 1:24,000-scale topographic maps
+      Source_Contribution: Feature names and attribute data.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Ocean Service (NOS)
+          Publication_Date:
+          Title: National Ocean Service charts
+      Type_of_Source_Media: None
+      Source_Citation_Abbreviation: National Ocean Service charts
+      Source_Contribution: Feature names and attribute information
+    Process_Step:
+      Process_Description: Partnerships - the Geographic Names Project enters into partnerships with State names authorities and State and local GIS agencies to integrate name, location, and attribute data in the GNIS with State and local datasets. These partnerships utilize GIS and web technology to automate and simplify data maintenance, ensure data consistency, integrity, and accuracy, and meet the requirements of the Board on Geographic Names for national names standardization. Government agencies at all levels are encouraged to join this program. Other organizations and individuals will be considered on a case basis. For additional information contact the individual below.
+      Process_Date:
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Louis A. Yost
+          Contact_Position: Chief, Geographic Names Project
+          Contact_Address:
+            Address_Type: Unknown
+            Address: 523 National Center
+            City: Reston
+            State_or_Province: Virginia
+            Postal_Code: 20192
+          Contact_Voice_Telephone: 703 648 4552
+          Contact_Electronic_Mail_Address: gnis_manager@usgs.gov
+          Hours_of_Service: Monday through Friday 0730-1700 Eastern Time
+    Process_Step:
+      Process_Description: GNIS Maintenance program - Federal and state maintenance cooperators submit new and corrected data in conjunction with their mapping and geographical information system data maintenance programs. The GNIS has an active data gathering and maintenance program. A web-based data entry and edit application allows authorized users to submit transaction data directly for validation and entry into the database, where it immediately becomes available to all web services and applications. A test and demonstration site with no connection to production data is available for review, training, and familiarization. Batch files will be accepted in most standard formats. Government agencies at all levels are encouraged to join this program. Other organizations and individuals will be considered on a case basis. For additional information or to request user accounts for entry and edit of production data and web seminar training, contact gnis_manager@usgs.gov or the individual below.
+      Process_Date:
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Louis A. Yost
+          Contact_Position: Chief, Geographic Names Project
+          Contact_Address:
+            Address_Type: Unknown
+            Address: 523 National Center
+            City: Reston
+            State_or_Province: Virginia
+            Postal_Code: 20192
+          Contact_Voice_Telephone: 703 648 4552
+          Contact_Electronic_Mail_Address: gnis_manager@usgs.gov
+          Hours_of_Service: 0900-1700 Eastern time
+    Process_Step:
+      Process_Description: GNIS Phase I data compilation and edit - Feature name and attribute data were collected from the largest-scale USGS topographic maps available. These data are compared to the records of the U.S. Board on Geographic Names.
+      Process_Date: 19810501
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Roger L. Payne
+          Contact_Position: Chief, Geographic Names Project
+          Contact_Address:
+            Address_Type: Unknown
+            Address: 523 National Center
+            City: Reston
+            State_or_Province: Virginia
+            Postal_Code: 20192
+          Contact_Voice_Telephone: 703 648 4552
+          Contact_Electronic_Mail_Address: gnis_manager@usgs.gov
+          Hours_of_Service: Monday through Friday 0730-1700 Eastern Time
+    Process_Step:
+      Process_Description: GNIS Phase II data compilation and edit - Feature name and attribute data are collected from official state and local sources and other approved sources including historical maps and documents.
+      Process_Date:
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Louis A. Yost
+          Contact_Position: Chief, Geographic Names Project
+          Contact_Address:
+            Address_Type: Unknown
+            Address: 523 National Center
+            City: Reston
+            State_or_Province: Virginia
+            Postal_Code: 20192
+          Contact_Voice_Telephone: 703 648 4552
+          Contact_Electronic_Mail_Address: gnis_manager@usgs.gov
+          Hours_of_Service: Monday through Friday 0730-1700 Eastern Time
+    Process_Step:
+      Process_Description:
+        1) Downloaded delimited text file from http://geonames.usgs.gov/domestic/download_data.htm that was pre-compiled for Rhode Island.
+        2) Converted delimited text file to a Microsoft Office 2003 Excel file.  Deleted all records where "State_Alpha" was not equal to RI (note that the source dataset included features where their official locations are outside Rhode Island extend into the state; e.g. the Atlantic Ocean).  Deleted all records that did not have official feature locations associated with them.  Certain field names were truncated to match shapefile field name length limitations.
+        3) Created XY Event Layer within Esri ArcGIS v10, exported layer to a shapefile that uses the Rhode Island State Plane coordinate system.
+        4) Imported original metadata document written by USGS (available via http://geonames.usgs.gov/domestic/metadata.htm), deleted non-pertinent information, and supplemented with additional field definition information available from this website.  Metadata record updated with additional citation, file format, data quality, and distribution information.
+      Process_Date: 20110328
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Greg Bonynge
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-2180
+          Contact_Electronic_Mail_Address: greg@edc.uri.edu
+          Contact_Instructions: email preferred
+    Process_Step:
+      Process_Description: Updated Point of Contact information for this dataset from "Louis Yost" to "Greg Bonynge."
+      Process_Date: 20150528
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Erica Tefft
+          Contact_Position: Research Associate
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Coastal Institute
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-5054
+          Contact_Electronic_Mail_Address: erica@edc.uri.edu
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 6171
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 3800
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999994
+            Longitude_of_Central_Meridian: -71.500000
+            Latitude_of_Projection_Origin: 41.083333
+            False_Easting: 328083.333333
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000
+          Ordinate_Resolution: 0.000000
+        Planar_Distance_Units: survey feet
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Geographic feature
+      Entity_Type_Definition: A geographic feature is any relatively permanent part of the natural or manmade landscape or seascape that has recognizable identity within a particular cultural context. The primary attributes of a geographic feature are name and location.
+      Entity_Type_Definition_Source: Principles, Policies, and Procedures: Domestic Geographic Names, By Donald J. Orth, Executive Secretary, Domestic Geographic Names (emeritus) and Roger L. Payne, Executive Secretary, United States Board on Geographic Names and Domestic Geographic Names, Third printing (revised) and Preliminary Online Edition, 1997 (http://geonames.usgs.gov/docs/pro_pol_pro.pdf).
+    Attribute:
+      Attribute_Label: FEATURE_ID
+      Attribute_Definition: A permanent, unique number assigned to a geographic feature for the sole purpose of uniquely identifying that feature as a record in any information system database, dataset, file, or document and for distinguishing it from all other feature records so identified. The number is assigned sequentially (highest existing number plus one) to new records as they are created in the Geographic Names Information System. The number, by design, carries no information or association to the content of the feature record and therefore is not subject to change as attribute values change. Once assigned to a feature, the number is never changed or withdrawn, and never reassigned. The Feature ID can be applied in conjunction with system-unique record identifiers in any database or system, thus providing a national standard common reference identifier across multiple datasets. The Feature ID is stored in the GNIS database as an integer with a maximum of ten digits.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA  20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 9,999,999,999
+    Attribute:
+      Attribute_Label: FEAT_NAME
+      Attribute_Definition: A geographic feature name and its written form and application approved or recognized as official by the United States Board on Geographic Names for use throughout the Federal Government. The official name is established either by policy or by decision of the Board on Geographic Names. It is the proper name, specific term, or expression by which a particular geographic entity is, or was, known. A geographic feature may have only one official name, which must be the name applied to the feature on all Federal products, electronic or printed.
+      Attribute_Definition_Source: Principles, Policies, and Procedures: Domestic Geographic Names, By Donald J. Orth, Executive Secretary, Domestic Geographic Names (emeritus) and Roger L. Payne, Executive Secretary, United States Board on Geographic Names and Domestic Geographic Names, Third printing (revised) and Preliminary Online Edition, 1997 (http://geonames.usgs.gov/docs/pro_pol_pro.pdf).
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Principles, Policies, and Procedures: Domestic Geographic Names
+          Codeset_Source: Principles, Policies, and Procedures: Domestic Geographic Names, By Donald J. Orth, Executive Secretary, Domestic Geographic Names (emeritus) and Roger L. Payne, Executive Secretary, United States Board on Geographic Names and Domestic Geographic Names, Third printing (revised) and Preliminary Online Edition, 1997 (http://geonames.usgs.gov/docs/pro_pol_pro.pdf).
+      Beginning_Date_of_Attribute_Values: 18900804
+    Attribute:
+      Attribute_Label: FEAT_CLASS
+      Attribute_Definition: A feature class is a designation for a group of features in a broadly defined descriptive category. All features are assigned to one and only one class. They do not individually classify all kinds of cultural and natural features. By design, there are no Federal or industry standards or guidelines for feature classification. These classifications originally were developed for mainframe file structure search purposes. Although the terms are generally consistent with dictionary definitions, they may not conform exactly and are not always intuitive.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523 (gnis_manager@usgs.gov).
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Feature class values and definitions for the Geographic Names Information System (http://geonames.usgs.gov). See Definitions (http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:8).
+          Codeset_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523 (gnis_manager@usgs.gov).
+    Attribute:
+      Attribute_Label: ST_ALPHA
+      Attribute_Definition: The unique two letter alphabetic code for a US State as specified in INCITS 38:200x, (Formerly FIPS 5-2) Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States.
+          Codeset_Source: INCITS 38:200x, (Formerly FIPS 5-2) Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States.
+    Attribute:
+      Attribute_Label: ST_NUMERIC
+      Attribute_Definition: The unique two number code for a US State as specified in INCITS 38:200x, (Formerly FIPS 5-2) Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States.
+          Codeset_Source: INCITS 38:200x, (Formerly FIPS 5-2) Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States.
+    Attribute:
+      Attribute_Label: CNTY_NAME
+      Attribute_Definition: The name for a county or county equivalent as specified in INCITS 31:200x, (Formerly FIPS 6-4) Codes for the Identification of Counties and Equivalent Entities of the United States, its Possessions, and Insular Areas
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Codes for the Identification of Counties and Equivalent Entities of the United States, its Possessions, and Insular Areas.
+          Codeset_Source: INCITS 31:200x, (Formerly FIPS 6-4) Codes for the Identification of Counties and Equivalent Entities of the United States, its Possessions, and Insular Areas.
+    Attribute:
+      Attribute_Label: CNTY_NUM
+      Attribute_Definition: The unique three number code for a county or county equivalent as specified in INCITS 31:200x, (Formerly FIPS 6-4) Codes for the Identification of Counties and Equivalent Entities of the United States, its Possessions, and Insular Areas
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Codes for the Identification of Counties and Equivalent Entities of the United States, its Possessions, and Insular Areas.
+          Codeset_Source: INCITS 31:200x, (Formerly FIPS 6-4) Codes for the Identification of Counties and Equivalent Entities of the United States, its Possessions, and Insular Areas.
+    Attribute:
+      Attribute_Label: P_LAT_DMS
+      Attribute_Definition:
+        The official feature location as defined in INCITS 446-2008, Identifying Attributes for Named Physical and Cultural Geographic Features (Except Roads and Highways) of the United States, Its Territories, Outlying Areas, and Freely Associated Areas, and the Waters of the Same to the Limit of the Twelve-Mile Statutory Zone.
+        NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -90 latitude
+          Range_Domain_Maximum: 72 latitude
+          Attribute_Units_of_Measure: degrees/minutes/seconds
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: P_LONG_DMS
+      Attribute_Definition:
+        The official feature location as defined in INCITS 446-2008, Identifying Attributes for Named Physical and Cultural Geographic Features (Except Roads and Highways) of the United States, Its Territories, Outlying Areas, and Freely Associated Areas, and the Waters of the Same to the Limit of the Twelve-Mile Statutory Zone.
+        NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -180 longitude
+          Range_Domain_Maximum: 180 longitude
+          Attribute_Units_of_Measure: degrees/minutes/seconds
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: P_LAT_DEC
+      Attribute_Definition:
+        The official feature location as defined in INCITS 446-2008, Identifying Attributes for Named Physical and Cultural Geographic Features (Except Roads and Highways) of the United States, Its Territories, Outlying Areas, and Freely Associated Areas, and the Waters of the Same to the Limit of the Twelve-Mile Statutory Zone.
+        NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -90.0000000 latitude
+          Range_Domain_Maximum: 72.0000000 latitude
+          Attribute_Units_of_Measure: Decimal degrees
+          Attribute_Measurement_Resolution: 0.0000001
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: P_LONG_DEC
+      Attribute_Definition:
+        The official feature location as defined in INCITS 446-2008, Identifying Attributes for Named Physical and Cultural Geographic Features (Except Roads and Highways) of the United States, Its Territories, Outlying Areas, and Freely Associated Areas, and the Waters of the Same to the Limit of the Twelve-Mile Statutory Zone.
+        NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -180.0000000 longitude
+          Range_Domain_Maximum: 180.0000000 longitude
+          Attribute_Units_of_Measure: Decimal degrees
+          Attribute_Measurement_Resolution: 0.0000001
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: S_LAT_DMS
+      Attribute_Definition:
+        Source coordinates of linear feature only (Class = Stream, Valley, Arroyo), NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -90 latitude
+          Range_Domain_Maximum: 72 latitude
+          Attribute_Units_of_Measure: Decimal degrees
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: S_LONG_DMS
+      Attribute_Definition:
+        Source coordinates of linear feature only (Class = Stream, Valley, Arroyo), NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -180 longitude
+          Range_Domain_Maximum: 180 longitude
+          Attribute_Units_of_Measure: Decimal degrees
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: S_LAT_DEC
+      Attribute_Definition:
+        Source coordinates of linear feature only (Class = Stream, Valley, Arroyo), NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -90.0000000 latitude
+          Range_Domain_Maximum: 72.0000000 latitude
+          Attribute_Units_of_Measure: Decimal degrees
+          Attribute_Measurement_Resolution: 0.0000001
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: S_LONG_DEC
+      Attribute_Definition:
+        Source coordinates of linear feature only (Class = Stream, Valley, Arroyo), NAD 83
+        DMS-degrees/minutes/seconds
+        DEC-decimal degrees.
+        Note: Records showing "Unknown" and zeros for the latitude and longitude DMS and decimal fields, respectively, indicate that the coordinates of the feature are unknown. They are recorded in the database as zeros to satisfy the format requirements of a numerical data type. They are not errors and do not reference the actual geographic coordinates at 0 latitude, 0 longitude.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -180.0000000 longitude
+          Range_Domain_Maximum: 180.0000000 longitude
+          Attribute_Units_of_Measure: Decimal degrees
+          Attribute_Measurement_Resolution: 0.0000001
+      Beginning_Date_of_Attribute_Values: 1890
+    Attribute:
+      Attribute_Label: ELEV_IN_M
+      Attribute_Definition: Elevation in meters above (-below) sea level of the surface at the primary coordinates from National Elevation Dataset
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -4,115
+          Range_Domain_Maximum: 6,250
+          Attribute_Units_of_Measure: Meters
+    Attribute:
+      Attribute_Label: ELEV_IN_FT
+      Attribute_Definition: Elevation in feet above (-below) sea level of the surface at the primary coordinates from National Elevation Dataset
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -4,115
+          Range_Domain_Maximum: 6,250
+          Attribute_Units_of_Measure: Feet
+    Attribute:
+      Attribute_Label: MAP_NAME
+      Attribute_Definition: Name of USGS base series topographic map containing the primary coordinates.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: The Geographic Names Information System (GNIS)
+          Codeset_Source: The official database of names assigned to standard USGS products according to USGS policy and procedures, including standard 7.5x7.5 minute quadrangle maps and digital products. Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523 (gnis_manager@usgs.gov).
+    Attribute:
+      Attribute_Label: DT_CREATED
+      Attribute_Definition: The date the feature was initially committed to the database.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523 (gnis_manager@usgs.gov).
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Record create date
+    Attribute:
+      Attribute_Label: DT_EDITED
+      Attribute_Definition: The date any attribute of an existing feature was last edited.
+      Attribute_Definition_Source: Geographic Names Project, USGS, 523 National Center, Reston, VA 20192-0523 (gnis_manager@usgs.gov).
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Record last edited date
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.
+Metadata_Reference_Information:
+  Metadata_Date: 20110328
+  Metadata_Review_Date: 20110330
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Louis A. Yost
+      Contact_Position: Chief, Geographic Names Project
+      Contact_Address:
+        Address_Type: Unknown
+        Address: 523 National Center
+        City: Reston
+        State_or_Province: Virginia
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 703 648 4552
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
